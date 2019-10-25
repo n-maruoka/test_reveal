@@ -3,9 +3,7 @@
 - hoge
 - hogehoge
 
-
 ---
-
 
 # page2
 
@@ -18,5 +16,9 @@
 
 ---
 
-# page3
+# 日本語
 
+![logo](./img/mino.jpg)
+
+- font チェック
+- フォント
