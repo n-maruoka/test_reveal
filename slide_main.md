@@ -18,7 +18,8 @@
 
 # 日本語
 
-![logo](./img/mino.jpg)
+<img src="./img/mino.jpg" height="50" style="background:none; border:none; box-shadow:none;">
+<br>
 
 - font チェック
 - フォント
